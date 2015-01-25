@@ -1,0 +1,25 @@
+**x_train** contains "train/X_train.txt"
+**x_test** contains "test/X_test.txt"
+**x_data** contains x_train & x_test data
+
+**y_train** contains "train/y_train.txt"
+**y_test** contains "test/y_test.txt"
+**y_data** contains y_train & y_test data
+
+**subject_train** contains "train/subject_train.txt" 
+**subject_test** contains "test/subject_test.txt"
+**subject_data**  contains subject_train & subject_test data
+
+**features** contains "features.txt"
+
+**mean_columns**, **std_columns** contain info about selecting columns: colnumber, colname, coltype (mean/std)
+
+**columns** hold list of indexes and names of selected columns
+
+**x_data_final**  contains "activity_labels.txt"
+
+**y_data_final** lists activity names for each record of data set
+
+**data_final** keeps tidy data
+
+**avg_data** is output data set 
